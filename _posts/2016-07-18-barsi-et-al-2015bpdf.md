@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-19T16:36:40.594Z'
+datePublished: '2016-07-19T16:43:43.045Z'
 sourcePath: _posts/2016-07-18-barsi-et-al-2015bpdf.md
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2ua2dQY0ZNanpOQTQ'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-19T16:35:48.639Z'
+dateModified: '2016-07-19T16:40:34.471Z'
 title: Barsi et al 2015b.pdf
 app_links: []
 publisher:
@@ -19,7 +19,7 @@ hasPage: false
 inNav: false
 inLanguage: null
 authors: []
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
