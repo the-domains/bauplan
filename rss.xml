@@ -4,7 +4,7 @@
         <description><![CDATA[systems developmental biology & research related images from Julius Barsi]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 16:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 16:05:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Barsi et al 2015b.pdf]]></title>
@@ -26,6 +26,27 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a47f8408-6da6-44d7-a039-fdfa18e1b6d5.jpg</link>
             <guid isPermaLink="false">08026d34-955d-4803-938a-d7f47524ab02</guid>
             <pubDate>Tue, 19 Jul 2016 16:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a1fbd8-2135-4eb5-a10d-b48cfbb3fb93.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a1fbd8-2135-4eb5-a10d-b48cfbb3fb93.jpg</link>
+            <guid isPermaLink="false">d3487729-b6bd-409a-b3b5-8be0fa35cc39</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71d2bc78-383a-4190-9840-918043e391de.jpg">]]></description>
+            <link>https://thegrid.ai/bauplan/fd9977ec-fdf2-424b-b64e-2960e6403567/index.html</link>
+            <guid isPermaLink="false">fd9977ec-fdf2-424b-b64e-2960e6403567</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8e8eca608e2246b2946033b9488bd9d9/croprotate.jpg?cropheight=2813&cropwidth=2214&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F298387b9-c3c8-4f69-82ac-7caf60eedde3.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/bauplan/d69bf2d4-f73d-4a19-b911-877e225966eb/index.html</link>
+            <guid isPermaLink="false">d69bf2d4-f73d-4a19-b911-877e225966eb</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,27 +75,6 @@
             <link>https://thegrid.ai/bauplan/e9d3d2c9-e960-441b-a2dd-a0ce1ef4025f/index.html</link>
             <guid isPermaLink="false">e9d3d2c9-e960-441b-a2dd-a0ce1ef4025f</guid>
             <pubDate>Tue, 19 Jul 2016 16:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5f71fee-c2f2-47e8-9077-236bbc055414.jpg">]]></description>
-            <link>https://thegrid.ai/bauplan/7252b608-ef0e-4fd8-8ee4-d64e3680f027/index.html</link>
-            <guid isPermaLink="false">7252b608-ef0e-4fd8-8ee4-d64e3680f027</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b6dff09-da99-4531-a30f-b4b85cf1dafb.jpg">]]></description>
-            <link>https://thegrid.ai/bauplan/c0438b2f-1d84-4f04-8669-21e27babdec8/index.html</link>
-            <guid isPermaLink="false">c0438b2f-1d84-4f04-8669-21e27babdec8</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barsi & Davidson 2016.pdf]]></title>
-            <description><![CDATA[<article><h1>Barsi & Davidson 2016.pdf</h1><p>cis-reg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b30781-04a1-4574-ba15-de2b4b8f1a48.jpg"></article>]]></description>
-            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM</link>
-            <guid isPermaLink="false">778ee1d7-f689-4b93-81d3-207c7b8023bb</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
