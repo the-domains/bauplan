@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T16:36:33.988Z'
+datePublished: '2016-07-19T16:44:19.001Z'
 sourcePath: _posts/2016-07-18-barsi-et-al-2015apdf.md
 inFeed: true
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2uMlNVcmRIU0kwWmM'
@@ -10,7 +10,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-19T16:35:38.256Z'
+dateModified: '2016-07-19T16:41:34.646Z'
 title: Barsi et al 2015a.pdf
 app_links: []
 publisher:
@@ -21,7 +21,7 @@ publisher:
 description: gene regulatory network
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
