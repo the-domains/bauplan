@@ -4,7 +4,7 @@
         <description><![CDATA[systems developmental biology & research related images from Julius Barsi]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 16:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 16:05:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Barsi et al 2015b.pdf]]></title>
@@ -26,6 +26,27 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a47f8408-6da6-44d7-a039-fdfa18e1b6d5.jpg</link>
             <guid isPermaLink="false">08026d34-955d-4803-938a-d7f47524ab02</guid>
             <pubDate>Tue, 19 Jul 2016 16:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5f71fee-c2f2-47e8-9077-236bbc055414.jpg">]]></description>
+            <link>https://thegrid.ai/bauplan/7252b608-ef0e-4fd8-8ee4-d64e3680f027/index.html</link>
+            <guid isPermaLink="false">7252b608-ef0e-4fd8-8ee4-d64e3680f027</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b6dff09-da99-4531-a30f-b4b85cf1dafb.jpg">]]></description>
+            <link>https://thegrid.ai/bauplan/c0438b2f-1d84-4f04-8669-21e27babdec8/index.html</link>
+            <guid isPermaLink="false">c0438b2f-1d84-4f04-8669-21e27babdec8</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barsi & Davidson 2016.pdf]]></title>
+            <description><![CDATA[<article><h1>Barsi & Davidson 2016.pdf</h1><p>cis-reg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b30781-04a1-4574-ba15-de2b4b8f1a48.jpg"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM</link>
+            <guid isPermaLink="false">778ee1d7-f689-4b93-81d3-207c7b8023bb</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reconnaissance of British Columbia :: excerpt]]></title>
@@ -54,27 +75,6 @@
             <link>https://drive.google.com/open?id=0B5GkdNXImP2uUEgxdkdJRUl6czg</link>
             <guid isPermaLink="false">5a7c5418-5d8a-4949-a231-8c01b36c8878</guid>
             <pubDate>Tue, 19 Jul 2016 16:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reconnaissance of Patagonia :: excerpt]]></title>
-            <description><![CDATA[<article><h1>Reconnaissance of Patagonia :: excerpt</h1><p>minimally edited footage taken from a rigid hull inflatable boat (RHIB)</p></article>]]></description>
-            <link>https://vimeo.com/38041860</link>
-            <guid isPermaLink="false">139c48ad-375a-47ea-aecb-47513a5921b9</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ddc353f-97a3-48da-b944-5c3b1eefad2b.jpg">]]></description>
-            <link>https://thegrid.ai/bauplan/5955e4ae-116d-4c85-bd17-914f5322c28e/index.html</link>
-            <guid isPermaLink="false">5955e4ae-116d-4c85-bd17-914f5322c28e</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74cc09b-555e-41b1-8985-05be520e9df1.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74cc09b-555e-41b1-8985-05be520e9df1.jpg</link>
-            <guid isPermaLink="false">6275e4c1-84f0-4c8a-9339-8917afdf546f</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
