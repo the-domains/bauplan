@@ -4,8 +4,15 @@
         <description><![CDATA[systems developmental biology & research related images from Julius Barsi]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 16:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 16:45:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barsi & Davidson 2016.pdf]]></title>
+            <description><![CDATA[<article><h1>Barsi & Davidson 2016.pdf</h1><p>cis-reg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b30781-04a1-4574-ba15-de2b4b8f1a48.jpg"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM</link>
+            <guid isPermaLink="false">778ee1d7-f689-4b93-81d3-207c7b8023bb</guid>
+            <pubDate>Tue, 19 Jul 2016 16:45:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97a812b6-6fe4-4217-b303-e298b0d35fa8.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://drive.google.com/open?id=0B5GkdNXImP2uSWFsSnpsSnlvLXc</link>
             <guid isPermaLink="false">5a670dcf-0e6d-4595-b44d-fd17d64d773a</guid>
             <pubDate>Tue, 19 Jul 2016 16:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barsi & Davidson 2016.pdf]]></title>
-            <description><![CDATA[<article><h1>Barsi & Davidson 2016.pdf</h1><p>cis-reg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b30781-04a1-4574-ba15-de2b4b8f1a48.jpg"></article>]]></description>
-            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM</link>
-            <guid isPermaLink="false">778ee1d7-f689-4b93-81d3-207c7b8023bb</guid>
-            <pubDate>Tue, 19 Jul 2016 16:36:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
