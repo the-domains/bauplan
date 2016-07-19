@@ -4,7 +4,7 @@
         <description><![CDATA[systems developmental biology & research related images from Julius Barsi]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 16:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 16:05:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,10 +21,24 @@
             <pubDate>Tue, 19 Jul 2016 16:04:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Barsi et al 2014.pdf]]></title>
+            <description><![CDATA[<article><h1>Barsi et al 2014.pdf</h1><p>single cell</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7598fe84384db1456943ceaf161d1e3e/croprotate.jpg?cropheight=560&cropwidth=676&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5c5f525b-ecc4-42cd-b1d5-beeefedd560d.jpg&x=0&y=8"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uSWFsSnpsSnlvLXc</link>
+            <guid isPermaLink="false">5a670dcf-0e6d-4595-b44d-fd17d64d773a</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Barsi et al 2015a.pdf]]></title>
             <description><![CDATA[<article><h1>Barsi et al 2015a.pdf</h1><p>gene regulatory network</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e88ecbebd035688610dabca2302f564f/croprotate.jpg?cropheight=872&cropwidth=1861&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe11518ba-2794-4cf4-80a9-1bb869d438c7.jpg&x=0&y=0"></article>]]></description>
             <link>https://drive.google.com/open?id=0B5GkdNXImP2uMlNVcmRIU0kwWmM</link>
             <guid isPermaLink="false">32ece6f3-62d6-4280-b2b0-d80559131d7b</guid>
+            <pubDate>Tue, 19 Jul 2016 16:04:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c4bac8f-2819-43e2-85c2-6763cf586811.jpg">]]></description>
+            <link>https://thegrid.ai/bauplan/5feb7f22-7962-4a5b-bac8-9a4a131a7d86/index.html</link>
+            <guid isPermaLink="false">5feb7f22-7962-4a5b-bac8-9a4a131a7d86</guid>
             <pubDate>Tue, 19 Jul 2016 16:04:39 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/bauplan/cc4d14c5-f9d8-4bb5-bbd0-e51caad6587e/index.html</link>
             <guid isPermaLink="false">cc4d14c5-f9d8-4bb5-bbd0-e51caad6587e</guid>
             <pubDate>Tue, 19 Jul 2016 16:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c38c0a-1684-449c-9d9a-4e98cbced657.jpg">]]></description>
-            <link>https://thegrid.ai/bauplan/a1b0bd33-e07b-4971-9b88-7dc39116c408/index.html</link>
-            <guid isPermaLink="false">a1b0bd33-e07b-4971-9b88-7dc39116c408</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tulin et al 2016.pdf]]></title>
-            <description><![CDATA[<article><h1>Tulin et al 2016.pdf</h1><p>GRIP-seq</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cdffd66-debd-429d-9c96-69faebc48dab.jpg"></article>]]></description>
-            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2t0TkU5T2lfYlk</link>
-            <guid isPermaLink="false">36e1e3c5-7af4-4bd7-b55b-487746ea5141</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
