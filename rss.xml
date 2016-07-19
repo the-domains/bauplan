@@ -4,7 +4,7 @@
         <description><![CDATA[systems developmental biology & research related images from Julius Barsi]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 16:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 16:37:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tulin et al 2016.pdf]]></title>
@@ -28,13 +28,6 @@
             <pubDate>Tue, 19 Jul 2016 16:33:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Barsi & Davidson 2016.pdf]]></title>
-            <description><![CDATA[<article><h1>Barsi & Davidson 2016.pdf</h1><p>cis-reg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b30781-04a1-4574-ba15-de2b4b8f1a48.jpg"></article>]]></description>
-            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM</link>
-            <guid isPermaLink="false">778ee1d7-f689-4b93-81d3-207c7b8023bb</guid>
-            <pubDate>Tue, 19 Jul 2016 16:33:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a1fbd8-2135-4eb5-a10d-b48cfbb3fb93.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a1fbd8-2135-4eb5-a10d-b48cfbb3fb93.jpg</link>
@@ -47,6 +40,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbc71209-d345-4dd2-a999-96345b827c49.jpg</link>
             <guid isPermaLink="false">ccd190e9-62a6-4d87-8348-4ac08d389d6d</guid>
             <pubDate>Tue, 19 Jul 2016 16:32:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barsi & Davidson 2016.pdf]]></title>
+            <description><![CDATA[<article><h1>Barsi & Davidson 2016.pdf</h1><p>cis-reg</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b30781-04a1-4574-ba15-de2b4b8f1a48.jpg"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM</link>
+            <guid isPermaLink="false">778ee1d7-f689-4b93-81d3-207c7b8023bb</guid>
+            <pubDate>Tue, 19 Jul 2016 16:36:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
