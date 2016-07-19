@@ -1,6 +1,6 @@
-name: bauplan
+name: systems developmental biology & research related images from Julius Barsi
 favicon: null
-layout_spectrum: 0.08040354866534472
+layout_spectrum: 0.85757
 typography_spectrum: 0.7919862119015306
 title: systems developmental biology & research related images from Julius Barsi
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.36614230601117015
-  lightness: 0.6255179701838642
+    - '#000000'
+    - '#474747'
+    - '#999798'
+    - '#3cfefe'
+    - '#02a2fe'
+  brandStrength: 0.5
+  lightness: 0.75
   saturation: 0.9295599919278175
-  rhythmicContrast: 0.9616688112728298
+  rhythmicContrast: 0.5
 purpose: []
