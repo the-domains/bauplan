@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-19T16:45:26.817Z'
+datePublished: '2016-07-19T19:18:03.994Z'
 sourcePath: _posts/2016-07-19-barsi-and-davidson-2016pdf.md
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-19T16:43:12.922Z'
+dateModified: '2016-07-19T19:17:11.383Z'
 title: Barsi & Davidson 2016.pdf
 app_links: []
 publisher:
@@ -19,7 +19,7 @@ hasPage: false
 inNav: false
 inLanguage: null
 authors: []
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
