@@ -4,21 +4,28 @@
         <description><![CDATA[systems developmental biology & research related images from Julius Barsi]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 16:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 16:32:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barsi et al 2015a.pdf]]></title>
+            <description><![CDATA[<article><h1>Barsi et al 2015a.pdf</h1><p>gene regulatory network</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e88ecbebd035688610dabca2302f564f/croprotate.jpg?cropheight=872&cropwidth=1861&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe11518ba-2794-4cf4-80a9-1bb869d438c7.jpg&x=0&y=0"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uMlNVcmRIU0kwWmM</link>
+            <guid isPermaLink="false">32ece6f3-62d6-4280-b2b0-d80559131d7b</guid>
+            <pubDate>Tue, 19 Jul 2016 16:32:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barsi et al 2015b.pdf]]></title>
             <description><![CDATA[<article><h1>Barsi et al 2015b.pdf</h1><p>effector gene cohorts</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c3b87cd4ae769ab009bb4f2e47f0103e/croprotate.jpg?cropheight=840&cropwidth=1920&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa079bc92-472f-4a52-97d0-9e222d762d77.jpg&x=0&y=120"></article>]]></description>
             <link>https://drive.google.com/open?id=0B5GkdNXImP2ua2dQY0ZNanpOQTQ</link>
             <guid isPermaLink="false">616a1049-2f38-40d1-8d34-d9a38d68cf76</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:41 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2016 16:07:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a47f8408-6da6-44d7-a039-fdfa18e1b6d5.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a47f8408-6da6-44d7-a039-fdfa18e1b6d5.jpg</link>
             <guid isPermaLink="false">08026d34-955d-4803-938a-d7f47524ab02</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:35 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2016 16:07:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64ff788c-7f89-4194-98aa-9bcb6153f0b6.jpg">]]></description>
             <link>https://thegrid.ai/bauplan/a8cb112f-fce4-4127-9605-156739ac1ea3/index.html</link>
             <guid isPermaLink="false">a8cb112f-fce4-4127-9605-156739ac1ea3</guid>
-            <pubDate>Tue, 19 Jul 2016 16:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ff4976-0675-4dcd-b85a-bd11a17c0347.jpg">]]></description>
-            <link>https://thegrid.ai/bauplan/e9d3d2c9-e960-441b-a2dd-a0ce1ef4025f/index.html</link>
-            <guid isPermaLink="false">e9d3d2c9-e960-441b-a2dd-a0ce1ef4025f</guid>
             <pubDate>Tue, 19 Jul 2016 16:04:43 GMT</pubDate>
         </item>
     </channel>
