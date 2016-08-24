@@ -1,22 +1,26 @@
 ---
-datePublished: '2016-08-24T21:24:39.304Z'
+datePublished: '2016-08-24T21:26:47.946Z'
 sourcePath: _posts/2016-07-19-barsi-and-davidson-2016pdf.md
 inFeed: true
+isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM'
 authors: []
-hasPage: true
+hasPage: false
 keywords: []
 related: []
 author: []
-via: {}
-dateModified: '2016-08-24T21:24:38.582Z'
-title: Barsi & Davidson 2016
+dateModified: '2016-08-24T21:26:40.649Z'
+title: Barsi & Davidson 2016.pdf
 app_links: []
-publisher: {}
+publisher:
+  name: Google Docs
+  domain: drive.google.com
+  url: 'https://drive.google.com'
+  favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
 description: cis-reg
 inLanguage: null
 inNav: false
+via: {}
 starred: false
-url: barsi-and-davidson-2016pdf/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
