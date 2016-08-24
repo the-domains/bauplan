@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Tulin et al 2016
-    url: 'https://drive.google.com/open?id=0B5GkdNXImP2uN2t0TkU5T2lfYlk'
-    type: external
   - name: Barsi & Davidson 2016
     url: 'https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM'
     type: external
