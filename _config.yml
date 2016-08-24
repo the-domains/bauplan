@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Barsi PhD 2006
-    url: 'https://drive.google.com/open?id=0B5GkdNXImP2uVGt0MnJxUk0tQ1E'
-    type: external
   - name: Barsi et al 2005
     url: 'https://drive.google.com/open?id=0B5GkdNXImP2uUEgxdkdJRUl6czg'
     type: external
