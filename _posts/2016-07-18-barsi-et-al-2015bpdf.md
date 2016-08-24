@@ -1,24 +1,26 @@
 ---
-datePublished: '2016-08-24T21:43:14.725Z'
+datePublished: '2016-08-24T21:57:26.171Z'
 sourcePath: _posts/2016-07-18-barsi-et-al-2015bpdf.md
+inFeed: true
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2ua2dQY0ZNanpOQTQ'
+authors: []
+hasPage: false
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-19T11:17:30.747Z'
-title: Barsi et al 2015b.pdf
+via: {}
+dateModified: '2016-08-24T21:57:25.508Z'
+title: Barsi et al 2015b
 app_links: []
 publisher:
+  url: >-
+    https://drive.google.com/file/d/0B5GkdNXImP2ua2dQY0ZNanpOQTQ/view?pref=2&pli=1
   name: Google Docs
-  domain: drive.google.com
-  url: 'https://drive.google.com'
   favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
+  domain: drive.google.com
 description: effector gene cohorts
-inFeed: true
-hasPage: false
-inNav: false
 inLanguage: null
-authors: []
+inNav: false
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
