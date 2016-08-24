@@ -43,6 +43,9 @@ navigation:
   - name: Barsi et al 2007
     url: 'https://drive.google.com/open?id=0B5GkdNXImP2uWkdHRkc2QUpKNDg'
     type: external
+  - name: Barsi PhD 2006
+    url: 'https://drive.google.com/open?id=0B5GkdNXImP2uVGt0MnJxUk0tQ1E'
+    type: external
 favicon: null
 title: ' Biological research'
 description: systems developmental biology
