@@ -40,6 +40,9 @@ navigation:
   - name: Tulin et al 2016
     url: 'https://drive.google.com/open?id=0B5GkdNXImP2uN2t0TkU5T2lfYlk'
     type: external
+  - name: Barsi et al 2007
+    url: 'https://drive.google.com/open?id=0B5GkdNXImP2uWkdHRkc2QUpKNDg'
+    type: external
 favicon: null
 title: ' Biological research'
 description: systems developmental biology
