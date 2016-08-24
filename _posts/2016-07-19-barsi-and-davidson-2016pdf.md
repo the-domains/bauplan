@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:00:29.249Z'
+datePublished: '2016-08-24T21:04:18.062Z'
 sourcePath: _posts/2016-07-19-barsi-and-davidson-2016pdf.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T21:00:28.579Z'
+dateModified: '2016-08-24T21:04:17.342Z'
 title: Barsi & Davidson 2016.pdf
 app_links: []
 publisher:
