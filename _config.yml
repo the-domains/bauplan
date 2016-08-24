@@ -1,20 +1,4 @@
-name: systems developmental biology & research related images from Julius Barsi
-favicon: null
-layout_spectrum: 0.82539
 typography_spectrum: 0.7680281072389334
-title: systems developmental biology & research related images from Julius Barsi
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#757575'
@@ -26,4 +10,21 @@ color:
   lightness: 0.4375
   saturation: 0.9375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.82539
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: systems developmental biology & research related images from Julius Barsi
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: systems developmental biology & research related images from Julius Barsi
+description: systems developmental biology
 purpose: []
