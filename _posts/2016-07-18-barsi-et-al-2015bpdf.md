@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:12:56.845Z'
+datePublished: '2016-08-24T23:13:26.055Z'
 sourcePath: _posts/2016-07-18-barsi-et-al-2015bpdf.md
 inFeed: true
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2ua2dQY0ZNanpOQTQ'
@@ -9,11 +9,12 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T23:12:56.085Z'
+dateModified: '2016-08-24T23:13:25.314Z'
 title: Barsi et al 2015b.pdf
 app_links: []
 publisher:
-  url: 'https://drive.google.com'
+  url: >-
+    https://drive.google.com/file/d/0B5GkdNXImP2ua2dQY0ZNanpOQTQ/view?pref=2&pli=1
   name: Development
   favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
   domain: drive.google.com
