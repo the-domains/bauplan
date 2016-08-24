@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Barsi et al 2005
-    url: 'https://drive.google.com/open?id=0B5GkdNXImP2uUEgxdkdJRUl6czg'
-    type: external
 favicon: null
 title: ' Biological research'
 description: systems developmental biology
