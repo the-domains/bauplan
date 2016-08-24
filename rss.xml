@@ -4,7 +4,7 @@
         <description><![CDATA[ Biological research]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:21:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Barsi et al 2015b.pdf]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Tue, 19 Jul 2016 16:44:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reconnaissance of Patagonia :: excerpt]]></title>
+            <description><![CDATA[<article><h1>Reconnaissance of Patagonia :: excerpt</h1><p>minimally edited footage taken from a rigid hull inflatable boat (RHIB)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2157d795fc1ebd0368ed2aca356cc002/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F261547848_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/38041860</link>
+            <guid isPermaLink="false">00884f25-a216-4e34-b729-934775a13420</guid>
+            <pubDate>Wed, 24 Aug 2016 23:21:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Barsi et al 2014]]></title>
             <description><![CDATA[<article><h1>Barsi et al 2014</h1><p>gene regulatory network</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/414971e95022f7c878e067da82acfa4d/croprotate.jpg?cropheight=1060&cropwidth=929&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F286627b4-6442-4624-aed5-d511cf5dfcb6.jpg&x=0&y=8"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/286627b4-6442-4624-aed5-d511cf5dfcb6.jpg</link>
             <guid isPermaLink="false">fb2e41c1-a239-42f4-842e-a67aae7264c1</guid>
             <pubDate>Wed, 24 Aug 2016 23:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reconnaissance of BC :: excerpt]]></title>
-            <description><![CDATA[<article><h1>Reconnaissance of BC :: excerpt</h1><p>minimally edited footage taken from a rigid hull inflatable boat (RHIB)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7019e649e32e78b68fd81aaf0b3fa9bf/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F570227569_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/105524723</link>
-            <guid isPermaLink="false">1509c5a9-bb4d-41ee-a0e7-f36321f3fe59</guid>
-            <pubDate>Wed, 24 Aug 2016 23:18:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
