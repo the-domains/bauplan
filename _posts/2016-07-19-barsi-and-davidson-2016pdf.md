@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T20:55:19.097Z'
+datePublished: '2016-08-24T21:00:29.249Z'
 sourcePath: _posts/2016-07-19-barsi-and-davidson-2016pdf.md
 inFeed: true
 authors: []
@@ -8,12 +8,12 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T20:55:18.390Z'
+dateModified: '2016-08-24T21:00:28.579Z'
 title: Barsi & Davidson 2016.pdf
 app_links: []
 publisher:
   url: 'https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM'
-  name: Barsi & Davidson 2016
+  name: Developmental Biology
   favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
   domain: drive.google.com
 description: cis-reg
