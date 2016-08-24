@@ -19,15 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Publications & research related images from Julius Barsi
+name: Publications & images from Julius Barsi
 cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Barsi & Davidson 2016.pdf
-    id: 778ee1d7-f689-4b93-81d3-207c7b8023bb
-    type: content
 favicon: null
 title: ' Biological research'
 description: systems developmental biology
