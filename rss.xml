@@ -4,8 +4,15 @@
         <description><![CDATA[ Biological research]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 00:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 00:22:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barsi et al 2015a]]></title>
+            <description><![CDATA[<article><h1>Barsi et al 2015a</h1><p>gene regulatory network</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e88ecbebd035688610dabca2302f564f/croprotate.jpg?cropheight=872&cropwidth=1861&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe11518ba-2794-4cf4-80a9-1bb869d438c7.jpg&x=0&y=0"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uMlNVcmRIU0kwWmM</link>
+            <guid isPermaLink="false">32ece6f3-62d6-4280-b2b0-d80559131d7b</guid>
+            <pubDate>Thu, 25 Aug 2016 00:22:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Barsi et al 2014]]></title>
             <description><![CDATA[<article><h1>Barsi et al 2014</h1><p>Genome Research / single cell</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7598fe84384db1456943ceaf161d1e3e/croprotate.jpg?cropheight=560&cropwidth=676&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5c5f525b-ecc4-42cd-b1d5-beeefedd560d.jpg&x=0&y=8"></article>]]></description>
@@ -47,13 +54,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f5e520c-1376-4b4b-ace3-8b21b840ed96.jpg</link>
             <guid isPermaLink="false">edb9316f-29de-4f53-8501-298e5413cd70</guid>
             <pubDate>Tue, 19 Jul 2016 16:45:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barsi et al 2015a.pdf]]></title>
-            <description><![CDATA[<article><h1>Barsi et al 2015a.pdf</h1><p>gene regulatory network</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e88ecbebd035688610dabca2302f564f/croprotate.jpg?cropheight=872&cropwidth=1861&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe11518ba-2794-4cf4-80a9-1bb869d438c7.jpg&x=0&y=0"></article>]]></description>
-            <link>https://drive.google.com/open?id=0B5GkdNXImP2uMlNVcmRIU0kwWmM</link>
-            <guid isPermaLink="false">32ece6f3-62d6-4280-b2b0-d80559131d7b</guid>
-            <pubDate>Tue, 19 Jul 2016 16:44:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
