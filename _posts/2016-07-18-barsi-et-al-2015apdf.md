@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T00:22:35.673Z'
+datePublished: '2016-08-26T01:48:31.838Z'
 sourcePath: _posts/2016-07-18-barsi-et-al-2015apdf.md
 inFeed: true
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2uMlNVcmRIU0kwWmM'
@@ -9,14 +9,11 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-25T00:22:34.455Z'
+dateModified: '2016-08-26T01:48:30.707Z'
 title: Barsi et al 2015a
 app_links: []
 publisher:
   name: Development
-  domain: drive.google.com
-  url: 'https://drive.google.com'
-  favicon: 'https://ssl.gstatic.com/docs/doclist/images/icon_14_pdf_favicon.ico'
 description: gene regulatory network
 inLanguage: null
 inNav: false
