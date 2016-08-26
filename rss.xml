@@ -4,7 +4,7 @@
         <description><![CDATA[ Biological research]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 01:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 01:28:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Barsi et al 2015a]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Tue, 19 Jul 2016 16:44:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Barsi et al 2015a.pdf]]></title>
+            <description><![CDATA[<article><h1>Barsi et al 2015a.pdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5316ad8d603b868543b8f78771268d44/croprotate?cropheight=630&cropwidth=1018&degrees=0&input=https%3A%2F%2Flh3.googleusercontent.com%2FHZqzXuD-3xOy4kt1fsJhAf1fXo1hrmNVjFguUK9JSvdLIekehxCmfQ%3Dw1200-h630-p&x=91&y=0"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uMlNVcmRIU0kwWmM</link>
+            <guid isPermaLink="false">3509c5de-e38c-43fd-b4c5-d899ebdaaa62</guid>
+            <pubDate>Fri, 26 Aug 2016 01:28:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wu et al 2007.pdf]]></title>
             <description><![CDATA[<article><h1>Wu et al 2007.pdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/31dd1f58a84c781842d56f0605d82c92/croprotate?cropheight=630&cropwidth=972&degrees=0&input=https%3A%2F%2Flh3.googleusercontent.com%2FpsB36LwpzQ5SPJzdputKLCY3sgwrIQCJvPwyrH8hJ1h8xzEmrkX5Pg%3Dw1200-h630-p&x=113&y=0"></article>]]></description>
             <link>https://drive.google.com/open?id=0B5GkdNXImP2uWkdHRkc2QUpKNDg</link>
             <guid isPermaLink="false">889e8a15-002b-4086-9287-774870835797</guid>
             <pubDate>Fri, 26 Aug 2016 01:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barsi PhD 2006.pdf]]></title>
-            <description><![CDATA[<article><h1>Barsi PhD 2006.pdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c752b66862ccd274aa6ee12175d33f6f/noop?input=https%3A%2F%2Flh6.googleusercontent.com%2F6tSTMFeJM9YXLAcP1_AeBehIWA1ZWsL1z5umTJ49f5F2VEDylZIv1w%3Dw1200-h630-p"></article>]]></description>
-            <link>https://drive.google.com/open?id=0B5GkdNXImP2uVGt0MnJxUk0tQ1E</link>
-            <guid isPermaLink="false">3735672f-7253-4e21-b3ae-d135ca1a6a18</guid>
-            <pubDate>Fri, 26 Aug 2016 01:27:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
