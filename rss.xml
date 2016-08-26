@@ -4,7 +4,7 @@
         <description><![CDATA[ Biological research]]></description>
         <link>https://thegrid.ai/bauplan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 01:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 01:30:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bauplan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Barsi et al 2015a]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Tue, 19 Jul 2016 16:44:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tulin et al 2016.pdf]]></title>
+            <description><![CDATA[<article><h1>Tulin et al 2016.pdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a78a0aefbbcf53f7fe40a5decd3697ff/croprotate?cropheight=630&cropwidth=1038&degrees=0&input=https%3A%2F%2Flh6.googleusercontent.com%2F0MEicCIxIHppGSSVOlI0I5X2LMxcrdKA_TL58QtOuSQxzvnVOds5rw%3Dw1200-h630-p&x=80&y=0"></article>]]></description>
+            <link>https://drive.google.com/open?id=0B5GkdNXImP2uN2t0TkU5T2lfYlk</link>
+            <guid isPermaLink="false">6901eb77-9ece-4ab4-ac47-a7922b74ee03</guid>
+            <pubDate>Fri, 26 Aug 2016 01:30:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Barsi et al 2015b.pdf]]></title>
             <description><![CDATA[<article><h1>Barsi et al 2015b.pdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f0deaa651bedae284fab6b093a20d76f/noop?input=https%3A%2F%2Flh3.googleusercontent.com%2F8pMq4R8J_kcL45M7yYWIxDwAIeALKt7iqf2WvUjPHZAm6MdH6PAEjQ%3Dw1200-h630-p"></article>]]></description>
             <link>https://drive.google.com/open?id=0B5GkdNXImP2ua2dQY0ZNanpOQTQ</link>
             <guid isPermaLink="false">bcf02944-fcfd-4362-a656-a616e5e7c300</guid>
             <pubDate>Fri, 26 Aug 2016 01:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barsi et al 2014.pdf]]></title>
-            <description><![CDATA[<article><h1>Barsi et al 2014.pdf</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8c3274f8b49d77bc94525baf12272797/croprotate?cropheight=630&cropwidth=979&degrees=0&input=https%3A%2F%2Flh6.googleusercontent.com%2FpuR7-sMLitg7ULrzrmvxXQLk8eEtKOu-TNlRYBoQ8xtlz3UdSM_4_Q%3Dw1200-h630-p&x=106&y=0"></article>]]></description>
-            <link>https://drive.google.com/open?id=0B5GkdNXImP2uSWFsSnpsSnlvLXc</link>
-            <guid isPermaLink="false">99e49ff6-aaab-4531-b4d3-2797938a41ad</guid>
-            <pubDate>Fri, 26 Aug 2016 01:28:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
