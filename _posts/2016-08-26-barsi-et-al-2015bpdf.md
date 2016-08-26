@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-26T01:34:12.008Z'
+datePublished: '2016-08-26T01:35:45.006Z'
 sourcePath: _posts/2016-08-26-barsi-et-al-2015bpdf.md
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2ua2dQY0ZNanpOQTQ'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-26T01:34:11.131Z'
+dateModified: '2016-08-26T01:35:43.790Z'
 title: Barsi et al 2015b.pdf
 app_links: []
 publisher:
