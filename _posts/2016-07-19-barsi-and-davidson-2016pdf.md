@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T21:47:36.884Z'
+datePublished: '2016-08-26T01:51:40.128Z'
 sourcePath: _posts/2016-07-19-barsi-and-davidson-2016pdf.md
 inFeed: true
 isBasedOnUrl: 'https://drive.google.com/open?id=0B5GkdNXImP2uN2g4V214eE9GLXM'
@@ -9,8 +9,8 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T21:47:36.150Z'
-title: Barsi & Davidson 2016.pdf
+dateModified: '2016-08-26T01:51:38.939Z'
+title: Barsi & Davidson 2016
 app_links: []
 publisher:
   url: >-
